@@ -1,0 +1,14 @@
+*{box-sizing: border-box;}
+.header{
+  margin: 20px auto;
+  text-align: center;
+}
+.header h1{
+  display: inline;
+  background-color: #2d146b;
+  color: #fff;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 50px auto;
+  text-transform: uppercase;
+}
